@@ -1,6 +1,0 @@
-git init
-git add .
-git commit -m "TaskFlow Landing Page"
-git branch -M main
-git remote add origin https://github.com/jhonatancarreazo/taskflow-landing.git
-git push -u origin main

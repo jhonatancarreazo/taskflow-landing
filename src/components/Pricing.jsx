@@ -2,7 +2,7 @@ import React from "react"
 
 export default function Pricing() {
   return (
-    <section className="bg-gray-100 py-20">
+    <section className="bg-gray-100 py-20 min-h-screen flex items-center" id="pricing" data-aos="zoom-in">
 
       <div className="max-w-6xl mx-auto px-6 text-center">
 
